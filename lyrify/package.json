@@ -1,7 +1,7 @@
 {
-  "name": "lyrics-overlay",
+  "name": "lyrify",
   "version": "1.0.0",
-  "description": "Translucent, karaoke-style synced lyrics overlay for Spotify and YouTube",
+  "description": "Lyrify — a translucent, karaoke-style synced lyrics overlay for Spotify and YouTube",
   "main": "main.js",
   "scripts": {
     "start": "electron ."

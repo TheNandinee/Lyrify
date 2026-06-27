@@ -1,4 +1,4 @@
-# 🎤 Lyrics Overlay
+# 🎤 Lyrify
 
 A translucent, draggable, **karaoke-style lyrics overlay** that floats above everything else on your screen and follows whatever's playing — Spotify (app or web player) or YouTube.
 
@@ -22,8 +22,8 @@ No solid background. No clicking back and forth. Just lyrics, synced, sitting qu
 ## ⚡ Quick start
 
 ```bash
-git clone https://github.com/your-username/Overlay-lyrics.git
-cd Overlay-lyrics/lyrics-overlay
+git clone https://github.com/your-username/Lyrify.git
+cd Lyrify/lyrify
 npm install
 npm start
 ```
@@ -37,7 +37,7 @@ Get the LTS version from [nodejs.org](https://nodejs.org) if you don't have it.
 
 ### 2. Install dependencies
 ```bash
-cd lyrics-overlay
+cd lyrify
 npm install
 ```
 
